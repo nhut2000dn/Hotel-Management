@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/Client/Admin/BookRoomAdmin.java=UTF-8
+encoding//src/Client/Admin/CreateNew.java=UTF-8
+encoding//src/Client/Admin/LoginAdmin.java=UTF-8
+encoding//src/Client/Admin/ManagementAdmin.java=UTF-8
+encoding//src/Client/Admin/UpdateAndDeleteDatphong.java=UTF-8
+encoding//src/Client/Admin/UpdateAndDeleteKhackhang.java=UTF-8
+encoding//src/Client/User/BookRoomUser.java=UTF-8
+encoding//src/Client/User/ChangePass.java=UTF-8
+encoding//src/Client/User/LoginUser.java=UTF-8
+encoding//src/Client/User/ManagementUser.java=UTF-8
+encoding//src/Client/User/RegisteUser.java=UTF-8
+encoding//src/Client/User/UpdateAndDelete.java=UTF-8
+encoding//src/Server/Rmi.java=UTF-8
